@@ -46,10 +46,13 @@ You'll be fully prepared to collect, examine, and present data for any purpose, 
 ![Udemy Logo](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy/blob/master/Resources/Udemy.PNG)
 
 2. **Course Thumbnail**
+
 ![Course Thumbnail](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy/blob/master/Resources/Course_description.PNG)
 
 [Course Link](https://www.udemy.com/share/101WGaBUEecFdWRnQ=/)
 
 3. **Certificate**
+
+![Certificate](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy/blob/master/Resources/Certificate%20.PNG)
+
 > [Verified Certificate](https://www.udemy.com/certificate/UC-8ba58b0c-84ab-4486-9c9d-11eabc69cf40/)
-https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy/blob/master/Resources/Certificate%20.PNG
