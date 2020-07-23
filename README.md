@@ -58,6 +58,7 @@ You'll be fully prepared to collect, examine, and present data for any purpose, 
 > [Verified Certificate](https://www.udemy.com/certificate/UC-8ba58b0c-84ab-4486-9c9d-11eabc69cf40/)
 
 4. **Instructor**
+
 ![Kirill Eremenko](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy/blob/master/Resources/kiril.jpg)
 
 > **Kirill Eremenko**, Data Scientist
